@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Dario Griffo <dariogriffo@gmail.com>
 Homepage: https://rclone.org
 Package: rclone
-Version: rclone_VERSION-BUILD_VERSION~DIST
+Version: rclone_VERSION-BUILD_VERSION~griffo
 Architecture: SUPPORTED_ARCHITECTURES
 Depends: 
 Suggests: ca-certificates, fuse | fuse3

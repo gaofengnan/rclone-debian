@@ -1,4 +1,4 @@
-rclone (FULL_VERSION) DIST; urgency=low
+rclone (FULL_VERSION) stable; urgency=low
 
   * New upstream release, packaged from the official upstream linux release
     archive published at https://github.com/rclone/rclone/releases
