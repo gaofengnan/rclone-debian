@@ -6,4 +6,4 @@ rclone (FULL_VERSION) stable; urgency=low
     /usr/sbin/mount.rclone helper symlink and bash, zsh and fish completions.
   * The upstream changelog is published at https://rclone.org/changelog/
 
- -- Dario Griffo <dariogriffo@gmail.com>  Sat, 01 Aug 2026 00:00:00 +0000
+ -- Fengnan Gao <gao.fengnan@gmail.com>  Sat, 01 Aug 2026 00:00:00 +0000

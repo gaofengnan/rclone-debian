@@ -1,10 +1,10 @@
 Source: rclone
 Section: net
 Priority: optional
-Maintainer: Dario Griffo <dariogriffo@gmail.com>
+Maintainer: Fengnan Gao <gao.fengnan@gmail.com>
 Homepage: https://rclone.org
 Package: rclone
-Version: rclone_VERSION-BUILD_VERSION~griffo
+Version: rclone_VERSION-BUILD_VERSION~gaofn
 Architecture: SUPPORTED_ARCHITECTURES
 Depends: 
 Suggests: ca-certificates, fuse | fuse3

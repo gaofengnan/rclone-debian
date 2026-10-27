@@ -1,7 +1,7 @@
 Source: rclone
 Section: net
 Priority: optional
-Maintainer: Dario Griffo <dariogriffo@gmail.com>
+Maintainer: Fengnan Gao <gao.fengnan@gmail.com>
 Build-Depends: debhelper-compat (= 13), wget, ca-certificates, unzip
 Standards-Version: 4.6.2
 Homepage: https://rclone.org

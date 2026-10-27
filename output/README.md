@@ -18,6 +18,8 @@
 
 # Rclone
 
+> Fork of [dariogriffo/rclone-debian](https://github.com/dariogriffo/rclone-debian) (MIT); the original packaging is by Dario Griffo. Served at [deb.gaofn.xyz](https://deb.gaofn.xyz) for Debian 12 (bookworm) and 13 (trixie).
+
 Rclone *("rsync for cloud storage")* is a command-line program to sync files and
 directories to and from different cloud storage providers.
 
